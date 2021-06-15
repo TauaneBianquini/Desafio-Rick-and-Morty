@@ -1,0 +1,55 @@
+header {
+    background-color: #123859;
+    margin:0;
+    padding: 30px;
+    align-items: center;
+    text-align: center;
+    font-family: Verdana;
+    font-size: 35px;
+    color: #011526;
+
+}
+
+body {
+    margin: 0px;
+    width: 100%;
+    min-width: 100vh;
+    background-color: #011526 ;
+
+
+}
+
+main {
+    justify-content: center;
+    position: relative; 
+}
+
+
+
+.caixaImagens {
+
+    column-count: 4;
+    column-gap: 10px;
+    height: auto;
+
+  }
+
+img {
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+    box-sizing: border-box;
+  }
+
+
+p{
+    text-align: center;
+    position: relative;
+    font-family: Verdana;
+    background-color: #123859;
+    border-radius: 5px;
+    color: #011526;
+    padding: 20px;
+}
+
+
